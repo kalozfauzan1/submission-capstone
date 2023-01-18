@@ -1,13 +1,13 @@
 //
-//  submissionCapstoneTests.swift
-//  submissionCapstoneTests
+//  SubmissionCapstoneTests.swift
+//  SubmissionCapstoneTests
 //
 //  Created by MacbookPro13 on 19/01/23.
 //
 
 import XCTest
 
-final class submissionCapstoneTests: XCTestCase {
+final class SubmissionCapstoneTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

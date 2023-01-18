@@ -1,13 +1,13 @@
 //
-//  submissionCapstoneUITestsLaunchTests.swift
-//  submissionCapstoneUITests
+//  SubmissionCapstoneUITestsLaunchTests.swift
+//  SubmissionCapstoneUITests
 //
 //  Created by MacbookPro13 on 19/01/23.
 //
 
 import XCTest
 
-final class submissionCapstoneUITestsLaunchTests: XCTestCase {
+final class SubmissionCapstoneUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

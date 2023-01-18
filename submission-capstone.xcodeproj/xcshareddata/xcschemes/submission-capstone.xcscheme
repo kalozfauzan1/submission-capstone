@@ -72,6 +72,28 @@
                ReferencedContainer = "container:submission-capstone.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B0807F6C297884EC00311345"
+               BuildableName = "SubmissionCapstoneTests.xctest"
+               BlueprintName = "SubmissionCapstoneTests"
+               ReferencedContainer = "container:submission-capstone.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B0807F79297884FD00311345"
+               BuildableName = "SubmissionCapstoneUITests.xctest"
+               BlueprintName = "SubmissionCapstoneUITests"
+               ReferencedContainer = "container:submission-capstone.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
