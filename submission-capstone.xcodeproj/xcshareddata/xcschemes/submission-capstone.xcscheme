@@ -33,7 +33,7 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0125A6D2963194600C3FE7A"
+               BlueprintIdentifier = "B0807F4329787EB600311345"
                BuildableName = "submission-capstoneTests.xctest"
                BlueprintName = "submission-capstoneTests"
                ReferencedContainer = "container:submission-capstone.xcodeproj">
@@ -44,9 +44,31 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0125A772963194600C3FE7A"
+               BlueprintIdentifier = "B0807F3429787EAA00311345"
                BuildableName = "submission-capstoneUITests.xctest"
                BlueprintName = "submission-capstoneUITests"
+               ReferencedContainer = "container:submission-capstone.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B0807F502978836900311345"
+               BuildableName = "submissionCapstoneUITests.xctest"
+               BlueprintName = "submissionCapstoneUITests"
+               ReferencedContainer = "container:submission-capstone.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B0807F5F2978837B00311345"
+               BuildableName = "submissionCapstoneTests.xctest"
+               BlueprintName = "submissionCapstoneTests"
                ReferencedContainer = "container:submission-capstone.xcodeproj">
             </BuildableReference>
          </TestableReference>
